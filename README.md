@@ -82,7 +82,7 @@ Desarollador Front-End:
 . Responsive
 
 Lenguajes: -HTML, CSS, Javascript
-Frameworks: - React.js
+Frameworks: - React.js, Redux
 
 ### FULLSTACK DEVELOPER
 ### Pagina web para la empresa Hussel Kay
@@ -103,7 +103,7 @@ Desarollador Front-End:
 . Responsive
 
 Lenguajes: -HTML, CSS, Javascript
-Frameworks: - React.js
+Frameworks: - React.js, Redux
 
 <!--
 **Molli1992/Molli1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
