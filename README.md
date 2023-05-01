@@ -19,7 +19,16 @@ encontrar la solucion a los probelmas de la vida con codigo.
 A poder tener una vida laboral como programador y poder cada dia mejorar mi cadigo para asi poder brindar un mejor
 funcionamiento.
 
-### Experiencia
+### Experiencia Academica
+
+Finalizacion de carrera de estudio Fullstack Developer en Soy Henry una academia de desarrollo de software que invierte en las personas.
+
+aprendizajes:
+.Reactjs .Git y Github .PostgresSQL .Redux .Agile(Scrum) .PGAdmin .Nodejs
+.OOP .VSCode .HTML .Sequielize .Javascript .CSS .Espress js .Postman
+.Creacion y consumicion de apis .Mas...
+
+### Experiencia Laboral
 
 ### FULLSTACK DEVELOPER
 ### Proyecto FinalSoy Henry
