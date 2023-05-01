@@ -25,12 +25,18 @@ funcionamiento.
 ### Proyecto FinalSoy Henry
 ### Web: https://pf-front-y72g-git-developpfgrupo3henry.vercel.app/
 
-. Planificacion y estimacion de la pagina a realizar
-. Traduccion del diseño web a componentes web
-. Gestion de la interaccion de los usuarios y la animacion de
-. la interfaz
-. Implementacion de buenas practicas (Responsive, UX)
- .Creacion de e-commerce
+###. 
+Planificacion y estimacion de la pagina a realizar
+###. 
+Traduccion del diseño web a componentes web
+###.
+Gestion de la interaccion de los usuarios y la animacion de
+###. 
+la interfaz
+###. 
+Implementacion de buenas practicas (UX)
+###. 
+Creacion de e-commerce
  
  Desarollador Front-End:
 
@@ -53,7 +59,6 @@ Desarrollador Back-End:
   de datos
 . Mantenimiento y resolución de errores
 . Autenticación de usuario y sesión
-. Gestión de conexiones asíncronas a servidores web
 . Gestión de conexiones asíncronas a servidores web
 . Creación de una API REST
 
