@@ -32,7 +32,7 @@ aprendizajes:
 
 ### FULLSTACK DEVELOPER
 ### Proyecto FinalSoy Henry
-### Web: https://pf-front-y72g-git-developpfgrupo3henry.vercel.app/](https://bikebazaar.netlify.app/
+### Web: https://bikebazaar.netlify.app/
 
 . Planificacion y estimacion de la pagina a realizar
 . Traduccion del diseño web a componentes web
