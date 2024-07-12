@@ -9,7 +9,7 @@ Fue una gran experiencia poder acercarge a la programacion y podes crear paginas
 ### Que tecnologias uso?
 .Reactjs .Git y Github .PostgresSQL .Redux .Agile(Scrum) .PGAdmin .Nodejs
 .OOP .VSCode .HTML .Sequielize .Javascript .CSS .Espress js .Postman
-.Creacion y consumicion de apis .Mas...
+.Nextjs . React Natuve .Creacion y consumicion de apis .Mas...
 
 ### Que Hago?
 Actaulmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programador. Me fasina poder
@@ -32,7 +32,7 @@ aprendizajes:
 
 ### FULLSTACK DEVELOPER
 ### Proyecto FinalSoy Henry
-### Web: https://pf-front-y72g-git-developpfgrupo3henry.vercel.app/
+### Web: https://pf-front-y72g-git-developpfgrupo3henry.vercel.app/](https://bikebazaar.netlify.app/
 
 . Planificacion y estimacion de la pagina a realizar
 . Traduccion del diseño web a componentes web
