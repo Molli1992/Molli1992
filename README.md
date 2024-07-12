@@ -72,7 +72,7 @@ Base de datos: -PostreSQL
 
 ### FULLSTACK DEVELOPER
 ### Pagina web para la empresa Penger Solutions
-### Web: https://pengersolutions.com/
+### Web: https://pengersolutions.netlify.app/
 
 . Planificacion y estimacion de la pagina a realizar
 . Traduccion del diseño web a componentes web
@@ -93,7 +93,7 @@ Frameworks: - React.js, Redux
 
 ### FULLSTACK DEVELOPER
 ### Pagina web para la empresa Hussel Kay
-### Web: https://husselkay.com/
+### Web: https://husselkay.netlify.app/
 
 . Planificacion y estimacion de la pagina a realizar
 . Traduccion del diseño web a componentes web
