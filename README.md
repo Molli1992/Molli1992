@@ -2,7 +2,7 @@
 
 ### Who am I?
 I am a Fullstack Developer focused on Front-end design and visual content creation.
-I became interested in programming to find a better professional future. My first language was React.js, and it was an amazing experience to dive into programming and create web pages—without a doubt, much more than just a career opportunity.
+I became interested in programming to find a better professional future. My first language was React js, and it was an amazing experience to dive into programming and create web pages—without a doubt, much more than just a career opportunity.
 
 ## What technologies do I use?
 React js - Next js - React Native - HTML - CSS - Javascript - Redux - Zustand - Bootstrap - Material UI - Node js - Express js - PostgreSQL - MySql - Sequelize - Postman - PGAdmin - Agile (Scrum) - VSCode - API creation and consumption - And more...
