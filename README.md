@@ -1,116 +1,25 @@
-### Hola mi nombre es Felipe Blaksley
+### Hello, my name is Felipe Blaksley
 
-### Quien soy?
-Soy un Programador Fullstack orientado al diseño Front-end y creacion de material visual
+### Who am I?
+I am a Fullstack Developer focused on Front-end design and visual content creation.
+I became interested in programming to find a better professional future. My first language was React.js, and it was an amazing experience to dive into programming and create web pages—without a doubt, much more than just a career opportunity.
 
-Me interese en la programacion para encontrar un mejor futuro laboral. Mi primer lenguaje fue React js
-Fue una gran experiencia poder acercarge a la programacion y podes crear paginas web, sin duda mucha mas que un futuro laboral.
+## What technologies do I use?
+React js - Next js - React Native - HTML - CSS - Javascript - Redux - Zustand - Bootstrap - Material UI - Node js - Express js - PostgreSQL - MySql - Sequelize - Postman - PGAdmin - Agile (Scrum) - VSCode - API creation and consumption - And more...
 
-### Que tecnologias uso?
-.Reactjs .Git y Github .PostgresSQL .Redux .Agile(Scrum) .PGAdmin .Nodejs
-.OOP .VSCode .HTML .Sequielize .Javascript .CSS .Espress js .Postman
-.Nextjs . React Natuve .Creacion y consumicion de apis .Mas...
+### What do I do?
+Currently, I work on projects and companies that allow me to advance in my training as a developer. I love solving real-world problems with code.t
 
-### Que Hago?
-Actaulmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programador. Me fasina poder
-encontrar la solucion a los probelmas de la vida con codigo.
+### Where am I headed?
+My goal is to build a career as a programmer and continuously improve my coding skills to deliver better functionality.
 
-### A donde me dirigo?
-A poder tener una vida laboral como programador y poder cada dia mejorar mi cadigo para asi poder brindar un mejor
-funcionamiento.
+### Academic Experience
+I completed my Fullstack Developer studies at Soy Henry, a software development academy that invests in people.
+Skills learned:
+React.js - HTML - CSS - Javascript - Redux - Node js - Express js - PostgreSQL - Sequelize - PGAdmin - VSCode - Postman - Agile (Scrum) - API creation and consumption - OOP - Git and GitHub
 
-### Experiencia Academica
-
-Finalizacion de carrera de estudio Fullstack Developer en Soy Henry una academia de desarrollo de software que invierte en las personas.
-
-aprendizajes:
-.Reactjs .Git y Github .PostgresSQL .Redux .Agile(Scrum) .PGAdmin .Nodejs
-.OOP .VSCode .HTML .Sequielize .Javascript .CSS .Espress js .Postman
-.Creacion y consumicion de apis .Mas...
-
-### Experiencia Laboral
-
-### FULLSTACK DEVELOPER
-### Proyecto FinalSoy Henry
-### Web: https://bikebazaar.netlify.app/
-
-. Planificacion y estimacion de la pagina a realizar
-. Traduccion del diseño web a componentes web
-. Gestion de la interaccion de los usuarios y la animacion de la interfaz
-. Implementacion de buenas practicas (UX)
-. Creacion de e-commerce
- 
- Desarollador Front-End:
-
-. Gestion de conexiones asincronas con Axios y/o Fetch
-. Validacion JS para formularios
-. Implementacion de Redux para manejar un store globalde
-. la aplicacion (store, reducer, actions y dispatch)
-. Manejo de hooks en react (useEffect, useState, etc.
-. Implementación y manejo de ruteo en ReactJs
-. Creacion de carrito de compras
-. Construccion de Dashboard de Admin
-. Utilizacion de Mercado Pago
-. Autenticación de usuario y sesión
-
-Desarrollador Back-End:
-
-. Planificación del desarrollo del servidor web.
-. Creación del Servidor Web
-. Análisis, diseño e implementación de un sistema de base
-  de datos
-. Mantenimiento y resolución de errores
-. Autenticación de usuario y sesión
-. Gestión de conexiones asíncronas a servidores web
-. Creación de una API REST
-
-Lenguajes: -HTML, CSS, Javascript
-Frameworks: - ReactJs, Express, NodeJs, Redux , ant-design,
-email.js , JSON Web Tokens, Node Mailer, Bcrypt
-ORM: - Sequelize
-Base de datos: -PostreSQL
-
-### FULLSTACK DEVELOPER
-### Pagina web para la empresa Penger Solutions
-### Web: https://pengersolutions.netlify.app/
-
-. Planificacion y estimacion de la pagina a realizar
-. Traduccion del diseño web a componentes web
-. Gestion de la interaccion de los usuarios y la animacion de
-  la interfaz
-. Implementacion de buenas practicas (Responsive, UX)
-. Creacion de la pagina en Ingles
-
-Desarollador Front-End:
-
-. Implementación y manejo de ruteo en ReactJs
-. Diseño de la pagina mediante la utilizaacion del lenguaje
-  Javascript, CSS, HTML, React.js, Redux
-. Responsive
-
-Lenguajes: -HTML, CSS, Javascript
-Frameworks: - React.js, Redux
-
-### FULLSTACK DEVELOPER
-### Pagina web para la empresa Hussel Kay
-### Web: https://husselkay.netlify.app/
-
-. Planificacion y estimacion de la pagina a realizar
-. Traduccion del diseño web a componentes web
-. Gestion de la interaccion de los usuarios y la animacion de
-  la interfaz
-. Implementacion de buenas practicas (Responsive, UX)
-. Creacion de la pagina en Ingles
-
-Desarollador Front-End:
-
-. Implementación y manejo de ruteo en ReactJs
-. Diseño de la pagina mediante la utilizaacion del lenguaje
-  Javascript, CSS, HTML, React.js, Redux
-. Responsive
-
-Lenguajes: -HTML, CSS, Javascript
-Frameworks: - React.js, Redux
+### My jobs
+Portfolio: https://felipeblaksley.netlify.app/
 
 <!--
 **Molli1992/Molli1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
