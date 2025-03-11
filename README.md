@@ -8,7 +8,7 @@ I became interested in programming to find a better professional future. My firs
 React js - Next js - React Native - HTML - CSS - Javascript - Redux - Zustand - Bootstrap - Material UI - Node js - Express js - PostgreSQL - MySql - Sequelize - Postman - PGAdmin - Agile (Scrum) - VSCode - API creation and consumption - And more...
 
 ### What do I do?
-Currently, I work on projects and companies that allow me to advance in my training as a developer. I love solving real-world problems with code.t
+Currently, I work on projects and companies that allow me to advance in my training as a developer. I love solving real-world problems with code.
 
 ### Where am I headed?
 My goal is to build a career as a programmer and continuously improve my coding skills to deliver better functionality.
